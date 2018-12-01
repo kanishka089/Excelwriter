@@ -1,0 +1,10 @@
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\bin\Debug\ExcelWriter.exe.config
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\bin\Debug\ExcelWriter.exe
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\bin\Debug\ExcelWriter.pdb
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.csprojAssemblyReference.cache
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.csproj.CoreCompileInputs.cache
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.exe
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.pdb
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\bin\Debug\EPPlus.dll
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\bin\Debug\EPPlus.xml
+E:\Repositories\Kanishka\writeToExcel\ExcelWriter\ExcelWriter\obj\Debug\ExcelWriter.csproj.CopyComplete
